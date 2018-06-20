@@ -1,0 +1,5 @@
+"eslintCofing": {
+    "globals": {
+        "window": true
+    }
+}
